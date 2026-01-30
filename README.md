@@ -20,16 +20,19 @@ Study of memory logic, data storage and AI behavior.
 
 ***The project is under development, the code is experimental🚨🚨🚨***
 
-## Stack  
 
-*since the project is not finished and it will be improved in the future, a technology stack will appear here, but for now, there is nothing here. (import re) was used from the libraries
+## Tech Stack
+# Python  
+# re (Regular Expressions)  
+***since the project is not finished and it will be improved in the future, a technology stack will appear here, but for now, there is nothing here. (import re) was used from the libraries***
 
 
 
-# **installation and launch instructions**  
-the code itself is not that complicated.  
-The AI accepts each word specified in the (responses,intentions)  
-variable, and it can also remember words if you write (remember) before saying something.  
+``
+## Installation
+1. Download the project
+2. Open the folder
+3. Run `python main.py`
 
 *PS: This code was written by me to understand AI and memory management.*  
 *It was written during my practical training, and new library functions will be added in the future.*  
@@ -37,3 +40,11 @@ variable, and it can also remember words if you write (remember) before saying s
 
 ### Contacts 
 Telegram: https://t.me/B0TlK
+
+
+
+
+
+
+
+
