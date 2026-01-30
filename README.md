@@ -28,7 +28,7 @@ Study of memory logic, data storage and AI behavior.
 
 
 
-``
+
 ## Installation
 1. Download the project
 2. Open the folder
