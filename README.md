@@ -1,5 +1,5 @@
 # Hello! 👋
-# I'm a beginner Python developer
+## I'm a beginner Python developer
 
 💡 Purpose of the project
 Study of memory logic, data storage and AI behavior.
