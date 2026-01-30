@@ -1,5 +1,4 @@
-# Hello! 👋
-## I'm a beginner Python developer
+# Hello! 👋  ## I'm a beginner Python developer
 
 ### 🧠 Opportunities
 
