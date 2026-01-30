@@ -32,6 +32,21 @@ ________________________
 1. Download the project
 2. Open the folder
 3. Run `python main.py`
+________________________
+*
+*
+## Example Usage
+you: привет  
+Ai: Привет! Рад тебя видеть 😊  
+you: сколько мне лет    
+AI: Хорошо, скажи — сколько тебе лет?    
+you: 25  
+Ai: Отлично, запомнил!  
+
+
+
+
+
 
 _______________________________
 *PS: This code was written by me to understand AI and memory management.*  
