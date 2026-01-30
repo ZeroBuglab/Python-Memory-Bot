@@ -1,4 +1,5 @@
 # Hello! 👋 
+******************
 This project was built to practice Python, AI logic, and memory systems  
 A simple experimental AI bot written in Python that can memorize user information and respond dynamically.
 ### 🧠 Opportunities
