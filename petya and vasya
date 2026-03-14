@@ -1,10 +1,21 @@
 #Game
 #(Time Limit: 1 sec. Memory: 16 MB. Difficulty: 4%)
-#In their spare time, classmates Vasya and Petya love to play various logic games: Battleship, Tic-Tac-Toe, Chess, Checkers, and many others. The boys have already tried and played all sorts of classic games of this kind, including computer ones. One day, they wanted to play something new, but couldn't find anything suitable.
+#In their spare time, classmates Vasya and Petya love to play various logic games: 
+#Battleship, Tic-Tac-Toe, Chess, Checkers, and many others. 
+#The boys have already tried and played all sorts of classic games of this kind, 
+#including computer ones. One day, they wanted to play something new, 
+#but couldn't find anything suitable.
 #So, Petya came up with the following game, "Guessing":
-#There are two players. The first player thinks of any three-digit number, such that the first and last digits differ from each other by more than one. Next, the player who thought of the number reverses it by swapping the first and last digits, thereby obtaining another number. Then, the smaller of the two numbers is subtracted from the larger one.
-#The second player's task is to guess the resulting number based on its first digit. For example, if Vasya thought of the number 487, then by rearranging the first and last digits, he gets the number 784. After that, he has to subtract 487 from 784, resulting in the number 297. Petya must guess this result using the provided first digit, which is 2.
-#Petya is better at math than Vasya, so he almost always wins games of this type. However, in this case, Petya cheated and specifically invented a game that has a winning strategy, ensuring he won't lose to Vasya under any circumstances.
+#There are two players. The first player thinks of any three-digit number, 
+#such that the first and last digits differ from each other by more than one. 
+#Next, the player who thought of the number reverses it by swapping the first and last digits, 
+#thereby obtaining another number. Then, the smaller of the two numbers is subtracted from the larger one.
+#The second player's task is to guess the resulting number based on its first digit. 
+#For example, if Vasya thought of the number 487, then by rearranging the first and last digits, he gets the number 784. 
+#After that, he has to subtract 487 from 784, resulting in the number 297. 
+#Petya must guess this result using the provided first digit, which is 2.
+#Petya is better at math than Vasya, so he almost always wins games of this type. 
+#However, in this case, Petya cheated and specifically invented a game that has a winning strategy, ensuring he won't lose to Vasya under any circumstances.
 #The Winning Strategy:
 #The result of the subtraction is always a three-digit number, its second digit is always 9, and to get the value of the last digit, it is sufficient to subtract the first digit from 9. In the case discussed above, the last digit is 9 - 2 = 7.
 #Help Petya further simplify the process of guessing the number by writing a program for it.
